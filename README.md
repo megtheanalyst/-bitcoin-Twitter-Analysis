@@ -5,13 +5,14 @@
 In this Data analysis Project, I gathered about 2000 tweets using the Python library Tweepy, then I performed a sentiment analysis on the data using the text blob library in Python (Colab).
 
 . Contents
-Introduction
-Data Gathering
-Data Assessment and Cleaning
-Data Preprocessing
-Sentiment Analysis
-Data Visualization
-Conclusion
+
+1. Introduction
+2. Data Gathering
+3. Data Assessment and Cleaning
+4. Data Preprocessing
+5. Sentiment Analysis
+6. Data Visualization
+7. Conclusion
 
 A notebook containing the analysis of twitter users perception of Bitcoin from 2022-01-01 to 2022-07-22.
 
